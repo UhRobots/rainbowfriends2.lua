@@ -1,0 +1,7 @@
+pre {
+    display: block;
+    font-family: monospace;
+    unicode-bidi: isolate;
+    white-space: pre;
+    margin: 1em 0px;
+}
